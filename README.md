@@ -11,7 +11,7 @@
 
     ## Project Structure
 
-    lab-api/
+    ```lab-api/```
     ├── Dockerfile       # Docker configuration for containerizing the API
     ├── README.md        # Project documentation
     ├── .gitignore       # Files and directories to ignore in Git
